@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD student in High Perfomance Computing @ DIPC & UPV/EHU
+* MSc in Computational Engineering and Intelligent Systems @ UPV/EHU
+* BS in Informatics Engineering @ UPV/EHU
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Technical Assistant @ DIPC (May. 2023 - Present)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Machine Learning Engineer @ Multiverse Computing (Jun. 2022 -- May. 2023)
+  * Implemented computer vision deep learning solution for defect detection problem. Worked on tensorizing classical deep learning solutions using Tensor Decompositions, e.g., CP, Tucker and Tensor-Train decompositions.
+  * Worked on predictive maintenance problem with multi-instance learning (MIL) and quantum-based ensemble machine learning methods.
+
+* Machine Learning Engineer Intern (Research Team) @ Multiverse Computing (Feb. 2022 -- Jun. 2022)
+  * Researched gate-based quantum extreme learning machine algorithm applied to classifications tasks for my bachelor's thesis.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, C, C++.
+* High Performance Computing
+  * CUDA, OpenMP, Slurm.
+* Technologies
+  * Linux, Pytorch, Keras, Tensorly, Docker, AWS.
 
 Publications
 ======
