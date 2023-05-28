@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "U. Sainz de la Maza Gamboa"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "PhD student in HPC @ DIPC & UPV/EHU"
   location         : "Bilbao"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "usainzg"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/usainzg"
+  twitter          : "usainzg"
   vine             :
   weibo            :
   xing             :
