@@ -1,12 +1,12 @@
 ---
 layout: term
-title: eliza's website
+title: unai's website
 cmd: cat about.md
 ---
 
-# eliza weisman
+# unai sainz de la maza gamboa
 
-Welcome to Eliza's HyperText page &mdash; on the World Wide Web!
+Welcome to Unai's HyperText page &mdash; on the World Wide Web!
 
 On this World Wide Web site, you can find [things I've written](notes), [talks
 I've presented](slides), [software I've worked on](#code), and [HyperLinks to
