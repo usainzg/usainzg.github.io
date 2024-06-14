@@ -138,16 +138,16 @@ You can see a full list of crates I've published
 
 A few other corners of the Internet where you can find me include:
 
-+ code on <a class = "dir" href="https://github.com/hawkw">github</a>
-+ keys on <a class = "dir" href="https://keybase.io/hawk">keybase</a>
-+ posts on <a class = "dir" href = "https://twitter.com/mycoliza">twitter</a>
-+ Continuity of Posting plan:
-  <a class = "dir" href="https://bsky.app/profile/elizas.website">bluesky</a>
-  and <a class = "dir" rel="me" href="https://xantronix.social/@eliza">mastodon</a>
++ code on <a class = "dir" href="https://github.com/usainzg">github</a>
+<!-- + keys on <a class = "dir" href="https://keybase.io/hawk">keybase</a> -->
++ posts on <a class = "dir" href = "https://x.com/usainzg">twitter</a>
+<!-- + Continuity of Posting plan: -->
+<!--   <a class = "dir" href="https://bsky.app/profile/elizas.website">bluesky</a> -->
+<!--   and <a class = "dir" rel="me" href="https://xantronix.social/@eliza">mastodon</a> -->
 
 ### Contact
 
-+ e-mail:<!--  _eliza (AT) buoyant (DOT) io_ or --> `eliza (AT) elizas (DOT) website`
++ e-mail:<!--  _eliza (AT) buoyant (DOT) io_ or --> `unaihtc70@gmail.com`
 + address & telephone number available by request
 
 * * *

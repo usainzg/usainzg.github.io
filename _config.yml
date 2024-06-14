@@ -2,13 +2,13 @@
 permalink: "/:title.html"
 
 # Setup
-title:            eliza's website
-url:              https://elizas.website
+title:            unai's website
+url:              https://www.usainzg.github.io
 baseurl:          /
 author: &default-author
-  name:           Eliza Weisman
-  url:            https://elizas.website
-  email:          eliza@elizas.website
+  name:           Unai Sainz de la Maza Gamboa
+  url:            https://www.usainzg.github.io
+  email:          unaihtc70@gmail.com
 
 encoding: utf-8
 
@@ -37,7 +37,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "eliza"
+      author: "unai"
       author: *default_author
   -
     scope:
@@ -70,7 +70,7 @@ sass:
 # Navigation
 nav:
   - name:           "code"
-    href:           "https://github.com/hawkw"
+    href:           "https://github.com/usainzg"
     kind:           "dir"
   # - name:           "art"
   #   href:           "/portfolio"
