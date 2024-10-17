@@ -14,8 +14,8 @@ places you can find me on other parts of the Web](#elsewhere).
 
 ## About Me
 
-I'm a [programmer](#code), a computer enthusiast, an occasional
-[artist](/portfolio), and a ["neural oscillator of uncertain
+I'm a PhD student @ DIPC and UPV/EHU, a [programmer](#code), a computer enthusiast,
+and a ["neural oscillator of uncertain
 significance"][oscillator], operating out of the San Francisco Exclusion Zone. I
 like writing the kind of software a lot of people don't think
 about too often these days: low-level systems software, operating systems, and
