@@ -14,12 +14,16 @@ places you can find me on other parts of the Web](#elsewhere).
 
 ## About Me
 
-I'm a PhD student @ DIPC and UPV/EHU, a [programmer](#code), a computer enthusiast,
-and a ["neural oscillator of uncertain
-significance"][oscillator], operating out of the San Francisco Exclusion Zone. I
-like writing the kind of software a lot of people don't think
-about too often these days: low-level systems software, operating systems, and
-infrastructure.
+I'm a PhD student @ DIPC and UPV/EHU trying to connect compilers and distributed systems. 
+On my (*limited*) free time, I'm also a [programmer](#code), who tries to be a *hacker*,
+ir as coined in [Hacker's Delight](), a real *computer aficionado*.
+
+<!--I'm a PhD student @ DIPC and UPV/EHU, a [programmer](#code), a computer enthusiast,-->
+<!--and a ["neural oscillator of uncertain-->
+<!--significance"][oscillator], operating out of the San Francisco Exclusion Zone. I-->
+<!--like writing the kind of software a lot of people don't think-->
+<!--about too often these days: low-level systems software, operating systems, and-->
+<!--infrastructure.-->
 
 Professionally, I'm [writing software](/new-years-and-new-beginnings) for [the cloud computer] at [Oxide Computer Company].
 Previously, I worked on open source networking infrastructure for cloud-native
