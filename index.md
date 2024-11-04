@@ -18,7 +18,7 @@ I'm a PhD student @ DIPC and UPV/EHU fascinated by the intricate dance between c
 
 Previously, I ventured into the quantum realm at [Multiverse Computing](https://multiversecomputing.com/), where I wore two hats: quantum machine learning engineer and research team member. This experience gave me a unique perspective on the future of computation and reinforced my passion for exploring cutting-edge technologies.
 
-You could say I'm an *'aficionado of computers'* (borrowing the delightful term from Hackers Delight) – someone who finds joy in understanding the deepest layers of how computers think and work.
+You could say I'm an 'aficionado of computers' (borrowing the delightful term from [Hacker's Delight](https://en.wikipedia.org/wiki/Hacker%27s_Delight)) – someone who finds joy in understanding the deepest layers of how computers think and work.
 
 When I'm not immersed in code or research papers, you'll find me in the mountains with [Ulia](ulia.md), my four-legged adventure companion.
 
