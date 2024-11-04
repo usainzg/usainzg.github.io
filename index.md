@@ -20,7 +20,7 @@ Previously, I ventured into the quantum realm at [Multiverse Computing](https://
 
 You could say I'm an 'aficionado of computers' (borrowing the delightful term from Hackers Delight) – someone who finds joy in understanding the deepest layers of how computers think and work.
 
-When I'm not immersed in code or research papers, you'll find me in the mountains with [Ulia](ulia), my four-legged adventure companion.
+When I'm not immersed in code or research papers, you'll find me in the mountains with [Ulia](ulia.md), my four-legged adventure companion.
 
 * * *
 
