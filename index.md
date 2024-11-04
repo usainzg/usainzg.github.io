@@ -8,9 +8,9 @@ cmd: cat about.md
 
 Welcome to Unai's HyperText page &mdash; on the World Wide Web!
 
-On this World Wide Web site, you can find [things I've written](notes), [talks
+<!-- TODO: uncomment this -> On this World Wide Web site, you can find [things I've written](notes), [talks
 I've presented](slides), [software I've worked on](#code), and [HyperLinks to
-places you can find me on other parts of the Web](#elsewhere).
+places you can find me on other parts of the Web](#elsewhere). -->
 
 ## About Me
 
