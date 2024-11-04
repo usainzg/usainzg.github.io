@@ -1,1 +1,1 @@
-![Ulia](ulia_01.JPG "Ulia in the Gorbea mountain, one of our favorites.")
+![Ulia](ulia_01.JPG "Ulia in the Gorbea mountain, one of our favorites."){:target="_blank"}
