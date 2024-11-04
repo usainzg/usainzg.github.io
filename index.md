@@ -46,6 +46,7 @@ Here are some of the main things I'm working on:
 
 A few other corners of the Internet where you can find me include:
 
++ papers on <a class = "dir" href="https://scholar.google.com/citations?user=sUnjrqsAAAAJ&hl=en">google-scholar</a>
 + code on <a class = "dir" href="https://github.com/usainzg">github</a>
 + posts on <a class = "dir" href = "https://x.com/usainzg">twitter</a>
 
