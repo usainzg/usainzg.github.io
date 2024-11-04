@@ -1,6 +1,6 @@
 ---
 layout: dir
-title: elizas.website/notes
+title: unai.website/notes
 cmd: "ls -la"
 pwd: notes
 ---
