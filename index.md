@@ -18,7 +18,7 @@ I'm a PhD student @ DIPC and UPV/EHU fascinated by the intricate dance between c
 
 Previously, I ventured into the quantum realm at [Multiverse Computing](https://multiversecomputing.com/), where I wore two hats: quantum machine learning engineer and research team member. This experience gave me a unique perspective on the future of computation and reinforced my passion for exploring cutting-edge technologies.
 
-You could say I'm an 'aficionado of computers' (borrowing the delightful term from Hackers Delight) – someone who finds joy in understanding the deepest layers of how computers think and work.
+You could say I'm an *'aficionado of computers'* (borrowing the delightful term from Hackers Delight) – someone who finds joy in understanding the deepest layers of how computers think and work.
 
 When I'm not immersed in code or research papers, you'll find me in the mountains with [Ulia](ulia.md), my four-legged adventure companion.
 
@@ -28,7 +28,9 @@ When I'm not immersed in code or research papers, you'll find me in the mountain
 
 Here are some of the main things I'm working on:
 
-+ **[mnemOS]: A hobby operating system for small computers
++ **WIP**
+
+<!-- + **[mnemOS]: A hobby operating system for small computers
   ([website][mnemOS]|[github][mnemOS-gh])**
 
   I've been spending a lot of my free time on [mnemOS], a joint project with my
@@ -36,7 +38,7 @@ Here are some of the main things I'm working on:
   on it with us. MnemOS is a hobby-grade, experimental operating system for
   [small computers] (and [bigger ones, too]). It's turned into a really fun
   playground for experimenting with OS design, borrowing some ideas from
-  microkernel operating systems as well as the Erlang runtime.
+  microkernel operating systems as well as the Erlang runtime. -->
 
 * * *
 
