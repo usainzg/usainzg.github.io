@@ -48,7 +48,7 @@ A few other corners of the Internet where you can find me include:
 
 + research on <a class = "dir" href="https://scholar.google.com/citations?user=sUnjrqsAAAAJ&hl=en">google-scholar</a>
 + code on <a class = "dir" href="https://github.com/usainzg">github</a>
-+ posts on <a class = "dir" href = "https://x.com/usainzg">twitter</a>
++ posts on <a class = "dir" href = "https://bsky.app/profile/usainzgg.bsky.social">bluesky</a>
 
 ### Contact
 
