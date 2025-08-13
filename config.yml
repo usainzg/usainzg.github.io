@@ -79,8 +79,8 @@ params:
             #   url: archive/
 
     socialIcons:
-        # - name: CV
-        #   url: cv.pdf
+        - name: CV
+          url: cv.pdf
         - name: Email
           url: mailto:unaihtc70@gmail.com
         - name: Google Scholar
