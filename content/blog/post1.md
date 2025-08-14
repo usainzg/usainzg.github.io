@@ -1,14 +1,15 @@
 ---
-title: "Fist post" 
+title: "[WIP] Learning Compilers" 
 date: 2025-08-13
 tags: ["compilers", "llvm"]
 author: ["Unai Sainz de la Maza"]
-description: "First post description"
-summary: "Summary"
+description: "My journey through learning compilers."
+summary: "My journey through learning compilers."
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "GitHub repository"
 showToc: true
 disableAnchoredHeadings: false
-
 ---
+
+Welcome everybody!
