@@ -6,23 +6,32 @@
 <html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
 
 <head>
-    {{- partial "head.html" . }}
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ site.Title }}</title>
+    
+    {{- if .Description }}
+    <meta name="description" content="{{ .Description }}" />
+    {{- else if site.Params.description }}
+    <meta name="description" content="{{ site.Params.description }}" />
+    {{- end }}
+    
+    <link rel="stylesheet" href="/css/tufte.css"/>
+    
+    {{- if site.Params.math }}
+    {{- partial "math.html" . }}
+    {{- end }}
+    
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 </head>
 
-<body class="
-{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
-{{- print "list" -}}
-{{- end -}}
-{{- if eq site.Params.defaultTheme `dark` -}}
-{{- print " dark" }}
-{{- end -}}
-" id="top">
-    {{- if not .IsHome  }}
-    {{- partialCached "header.html" . .Page -}}
-    {{- end }}
-    <main class="main">
+<body id="top">
+    <article>
         {{- block "main" . }}{{ end }}
-    </main>
+    </article>
+    {{- if not (.Param "hideFooter") }}
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+    {{- end }}
 </body>
 </html>
