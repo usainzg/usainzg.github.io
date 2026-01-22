@@ -449,3 +449,14 @@ label.margin-toggle:not(.sidenote-number) {
         width: 100%;
     }
 }
+
+/* Custom footer styles */
+footer {
+    margin-top: 4rem;
+    padding: 2rem 0;
+    border-top: 1px solid #ccc;
+}
+
+footer p {
+    font-size: 0.9rem;
+}
