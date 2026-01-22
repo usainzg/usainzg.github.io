@@ -1,7 +1,7 @@
 {{- define "main" }}
 
 <section>
-  <h1 id="{{ .Title | urlize }}">{{ .Title }}</h1>
+  <h1 id="{{ .Title | anchorize }}">{{ .Title }}</h1>
   {{- if .Params.subtitle }}
   <p class="subtitle">{{ .Params.subtitle }}</p>
   {{- end }}
